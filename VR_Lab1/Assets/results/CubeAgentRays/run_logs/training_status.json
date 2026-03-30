@@ -1,0 +1,65 @@
+{
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    },
+    "CubeAgent": {
+        "checkpoints": [
+            {
+                "steps": 88580,
+                "file_path": "results\\CubeAgentRays\\CubeAgent\\CubeAgent-88580.onnx",
+                "reward": -0.5,
+                "creation_time": 1773155935.8402252,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays\\CubeAgent\\CubeAgent-88580.pt"
+                ]
+            },
+            {
+                "steps": 99324,
+                "file_path": "results\\CubeAgentRays\\CubeAgent\\CubeAgent-99324.onnx",
+                "reward": null,
+                "creation_time": 1773156299.9926324,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays\\CubeAgent\\CubeAgent-99324.pt"
+                ]
+            },
+            {
+                "steps": 100008,
+                "file_path": "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.onnx",
+                "reward": -0.5,
+                "creation_time": 1773156638.8495207,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.pt"
+                ]
+            },
+            {
+                "steps": 100008,
+                "file_path": "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.onnx",
+                "reward": null,
+                "creation_time": 1773156671.4427366,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.pt"
+                ]
+            },
+            {
+                "steps": 100008,
+                "file_path": "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.onnx",
+                "reward": null,
+                "creation_time": 1773157303.2774453,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 100008,
+            "file_path": "results\\CubeAgentRays\\CubeAgent.onnx",
+            "reward": null,
+            "creation_time": 1773157303.2774453,
+            "auxillary_file_paths": [
+                "results\\CubeAgentRays\\CubeAgent\\CubeAgent-100008.pt"
+            ]
+        }
+    }
+}

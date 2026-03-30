@@ -1,0 +1,56 @@
+{
+    "CubeAgent": {
+        "checkpoints": [
+            {
+                "steps": 13531,
+                "file_path": "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-13531.onnx",
+                "reward": null,
+                "creation_time": 1773517638.3671367,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-13531.pt"
+                ]
+            },
+            {
+                "steps": 13821,
+                "file_path": "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-13821.onnx",
+                "reward": -0.5,
+                "creation_time": 1773518229.2696211,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-13821.pt"
+                ]
+            },
+            {
+                "steps": 52162,
+                "file_path": "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-52162.onnx",
+                "reward": null,
+                "creation_time": 1773520678.8839226,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-52162.pt"
+                ]
+            },
+            {
+                "steps": 98029,
+                "file_path": "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-98029.onnx",
+                "reward": null,
+                "creation_time": 1773521534.0124416,
+                "auxillary_file_paths": [
+                    "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-98029.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 98029,
+            "file_path": "results\\CubeAgentRays_V2\\CubeAgent.onnx",
+            "reward": null,
+            "creation_time": 1773521534.0124416,
+            "auxillary_file_paths": [
+                "results\\CubeAgentRays_V2\\CubeAgent\\CubeAgent-98029.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

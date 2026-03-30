@@ -1,0 +1,65 @@
+{
+    "Obelix": {
+        "checkpoints": [
+            {
+                "steps": 2496,
+                "file_path": "results\\Obelix\\Obelix\\Obelix-2496.onnx",
+                "reward": null,
+                "creation_time": 1774899833.23596,
+                "auxillary_file_paths": [
+                    "results\\Obelix\\Obelix\\Obelix-2496.pt"
+                ]
+            },
+            {
+                "steps": 26464,
+                "file_path": "results\\Obelix\\Obelix\\Obelix-26464.onnx",
+                "reward": null,
+                "creation_time": 1774900782.563939,
+                "auxillary_file_paths": [
+                    "results\\Obelix\\Obelix\\Obelix-26464.pt"
+                ]
+            },
+            {
+                "steps": 96979,
+                "file_path": "results\\Obelix\\Obelix\\Obelix-96979.onnx",
+                "reward": null,
+                "creation_time": 1774903896.0464075,
+                "auxillary_file_paths": [
+                    "results\\Obelix\\Obelix\\Obelix-96979.pt"
+                ]
+            },
+            {
+                "steps": 151401,
+                "file_path": "results\\Obelix\\Obelix\\Obelix-151401.onnx",
+                "reward": null,
+                "creation_time": 1774905150.4526188,
+                "auxillary_file_paths": [
+                    "results\\Obelix\\Obelix\\Obelix-151401.pt"
+                ]
+            },
+            {
+                "steps": 164457,
+                "file_path": "results\\Obelix\\Obelix\\Obelix-164457.onnx",
+                "reward": null,
+                "creation_time": 1774905809.8668766,
+                "auxillary_file_paths": [
+                    "results\\Obelix\\Obelix\\Obelix-164457.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 164457,
+            "file_path": "results\\Obelix\\Obelix.onnx",
+            "reward": null,
+            "creation_time": 1774905809.8668766,
+            "auxillary_file_paths": [
+                "results\\Obelix\\Obelix\\Obelix-164457.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
