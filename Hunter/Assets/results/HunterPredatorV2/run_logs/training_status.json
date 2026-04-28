@@ -1,0 +1,69 @@
+{
+    "Hunter": {
+        "checkpoints": [
+            {
+                "steps": 144574,
+                "file_path": "results\\HunterPredatorV2\\Hunter\\Hunter-144574.onnx",
+                "reward": null,
+                "creation_time": 1776713576.6232307,
+                "auxillary_file_paths": [
+                    "results\\HunterPredatorV2\\Hunter\\Hunter-144574.pt"
+                ]
+            },
+            {
+                "steps": 150795,
+                "file_path": "results\\HunterPredatorV2\\Hunter\\Hunter-150795.onnx",
+                "reward": null,
+                "creation_time": 1776713909.6373,
+                "auxillary_file_paths": [
+                    "results\\HunterPredatorV2\\Hunter\\Hunter-150795.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 150795,
+            "file_path": "results\\HunterPredatorV2\\Hunter.onnx",
+            "reward": null,
+            "creation_time": 1776713909.6373,
+            "auxillary_file_paths": [
+                "results\\HunterPredatorV2\\Hunter\\Hunter-150795.pt"
+            ]
+        }
+    },
+    "Predator": {
+        "checkpoints": [
+            {
+                "steps": 144574,
+                "file_path": "results\\HunterPredatorV2\\Predator\\Predator-144574.onnx",
+                "reward": null,
+                "creation_time": 1776713576.7178223,
+                "auxillary_file_paths": [
+                    "results\\HunterPredatorV2\\Predator\\Predator-144574.pt"
+                ]
+            },
+            {
+                "steps": 150795,
+                "file_path": "results\\HunterPredatorV2\\Predator\\Predator-150795.onnx",
+                "reward": null,
+                "creation_time": 1776713909.475719,
+                "auxillary_file_paths": [
+                    "results\\HunterPredatorV2\\Predator\\Predator-150795.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 150795,
+            "file_path": "results\\HunterPredatorV2\\Predator.onnx",
+            "reward": null,
+            "creation_time": 1776713909.475719,
+            "auxillary_file_paths": [
+                "results\\HunterPredatorV2\\Predator\\Predator-150795.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}

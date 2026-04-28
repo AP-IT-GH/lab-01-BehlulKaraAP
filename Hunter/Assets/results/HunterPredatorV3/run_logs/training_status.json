@@ -1,0 +1,51 @@
+{
+    "Predator": {
+        "checkpoints": [
+            {
+                "steps": 144040,
+                "file_path": "results\\HunterPredatorV3\\Predator\\Predator-144040.onnx",
+                "reward": null,
+                "creation_time": 1776726298.4291737,
+                "auxillary_file_paths": [
+                    "results\\HunterPredatorV3\\Predator\\Predator-144040.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 144040,
+            "file_path": "results\\HunterPredatorV3\\Predator.onnx",
+            "reward": null,
+            "creation_time": 1776726298.4291737,
+            "auxillary_file_paths": [
+                "results\\HunterPredatorV3\\Predator\\Predator-144040.pt"
+            ]
+        }
+    },
+    "Hunter": {
+        "checkpoints": [
+            {
+                "steps": 144040,
+                "file_path": "results\\HunterPredatorV3\\Hunter\\Hunter-144040.onnx",
+                "reward": -10.068896472454071,
+                "creation_time": 1776726298.608218,
+                "auxillary_file_paths": [
+                    "results\\HunterPredatorV3\\Hunter\\Hunter-144040.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 144040,
+            "file_path": "results\\HunterPredatorV3\\Hunter.onnx",
+            "reward": -10.068896472454071,
+            "creation_time": 1776726298.608218,
+            "auxillary_file_paths": [
+                "results\\HunterPredatorV3\\Hunter\\Hunter-144040.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.7.1+cu110"
+    }
+}
